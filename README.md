@@ -1,70 +1,26 @@
-<h1 align="center">Hi 👋, I'm Adil Raees</h1>
-<h3 align="center">🚀 Passionate Frontend Developer from Pakistan</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&section=header&text=Adil%20Raees&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" alt="header" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adilraees786&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="adilraees786" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4500&pause=800&color=00E5FF&center=true&vCenter=true&width=580&lines=Frontend+Developer+%F0%9F%8C%90;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+experiences+%F0%9F%9A%80;From+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
+</div>
 
----
+<br />
 
-### 👨‍💻 About Me
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adilraees786&label=Profile+Views&color=00E5FF&style=for-the-badge&logo=starship" alt="views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/adilraees786?color=00E5FF&label=followers&logo=github&style=for-the-badge" alt="followers" />
+</div>
 
-- 🔭 I’m currently working on **Modern Web Applications**
-- 🌱 I’m currently learning **Advanced React & Next.js**
-- 💬 Ask me about **React, JavaScript, Firebase, MongoDB**
-- ⚡ Fun fact: I love building clean & interactive UIs
+<br />
 
----
+<h2 align="center">🌟 About Me</h2>
 
-### 🌐 Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/adil-raees-08436a2b2" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://www.facebook.com/adil.raees.96" target="blank">
-  <img src="https://skillicons.dev/icons?i=facebook" height="40" />
-</a>
-<a href="https://www.instagram.com/adii_hehe" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,mongodb,mysql,firebase,git,oracle,reactnative" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adilraees786&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilraees786&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilraees786&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adilraees786&theme=algolia&margin-w=10&margin-h=10" />
-</p>
-
----
-
-### ✨ Quote I Believe In
-
-> “First, solve the problem. Then, write the code.” – John Johnson
-
----
-
-⭐ From [Adil Raees](https://github.com/adilraees786)
+```text
+👋 Hi, I'm Adil — a passionate frontend developer crafting clean, performant & beautiful user interfaces.
+💻 Currently focused on: React • Next.js • TypeScript • TailwindCSS
+🔥 Always experimenting with animations, UI/UX trends & modern full-stack tools
+🌱 Learning: Advanced animations, state management patterns, accessibility
+📫 Let's connect & build something amazing!
