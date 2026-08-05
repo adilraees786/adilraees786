@@ -35,7 +35,6 @@
 - 🧩 Also comfortable working full-stack with **PHP / Laravel** and **MySQL**
 - 🎯 Focused on writing clean code and building pixel-perfect UIs
 - 🤝 Always open to collaborating on exciting frontend & full-stack projects
-- 📚 Currently learning: advanced **Next.js patterns** and **backend API design**
 - ⚡ Fun fact: I love turning boring designs into vibrant, interactive experiences
 - 📫 Reach me anytime — I usually reply fast!
 
